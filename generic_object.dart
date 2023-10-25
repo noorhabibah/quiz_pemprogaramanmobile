@@ -4,7 +4,7 @@ class MyData<T>{
   MyData(this.data);
 }
 
-//import'mydata.dart
+//import'mydata.dart';
 
 void main(){
   var dataString = MyData<String>("Bibah");
